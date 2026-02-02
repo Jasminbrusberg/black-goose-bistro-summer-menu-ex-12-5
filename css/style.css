@@ -1,0 +1,44 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font: 400 2.5rem "Julius Sans One", Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dt strong {
+    font-style: italic;
+    color: tomato;
+}
+
+#info {
+    color: cadetblue;
+    font-style: italic;
+}
+
+.price{
+    font-style: italic;
+    color: gray;
+}
+
+.label{
+    font-variant: small-caps;
+    font-style: normal;
+}
+
+p.warning, sup {
+    font-size: small;
+    color: tomato;
+}
